@@ -9,4 +9,12 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tvtodo">tvTodo</string>
+    <string name="tvNotes">TextView</string>
+    <string name="my_notepad">My Notepad</string>
+    <string name="last_updated">Last updated:</string>
+    <string name="date_showed">%1s</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="save">SAVE</string>
 </resources>
